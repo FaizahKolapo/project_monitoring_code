@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1677353045, 323047161]
+build_end_time: [1677353049, 576467990]
+inputs:
+  "/Users/faizahkolapo/Downloads/project_monitoring_code/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1677353012, 128674983]
+  "/Users/faizahkolapo/Downloads/project_monitoring_code/macos/Runner/AppDelegate.swift": !private [1657744753, 0]
+  "/Users/faizahkolapo/Downloads/project_monitoring_code/macos/Runner/MainFlutterWindow.swift": !private [1657744753, 0]
